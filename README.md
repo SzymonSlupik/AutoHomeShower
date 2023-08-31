@@ -13,3 +13,6 @@ The principles for this design are:
 3. Pick a monting point such that the weight impact on the car handling is minimal while maintaining good exposure to sunlight
 
 The bracket is in two parts. the bottom one slides in the tent mounting rails. The top one goes inside the tent as a reinforcement. The construction was successfully tested on a 3000 km road trip (~500 km offroad / gravel) to Balkans in August 2023.
+
+![alt text](https://github.com/SzymonSlupik/AutoHomeShower/blob/main/IMG_1286.JPG?raw=true "Top view")
+![alt text](https://github.com/SzymonSlupik/AutoHomeShower/blob/main/IMG_1281.JPG?raw=true "Side view")
