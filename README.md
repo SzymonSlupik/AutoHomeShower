@@ -3,6 +3,8 @@ Mounting brackets to attach the [Yakima RoadShower](https://yakima.com/products/
 
 ![alt text](https://github.com/SzymonSlupik/AutoHomeShower/blob/main/ShowerBracket%20Overview.png)
 
+[SketchUp source](https://app.sketchup.com/share/tc/europe/hQsGCaOK3Bs?stoken=P3dCZn3Hrus86QJhcNThRc6qY3HEc3cBqXhJJZUn69To1sseOUwFP2onUcYVxxBT&source=web)
+
 More details available in the upcoming YouTube Video.
 
 The principles for this design are:
