@@ -1,2 +1,2 @@
 # AutoHomeShower
-Mounting brackets to attach Yakkima RoadShower to AutoHome Columbus roof top tent
+Mounting brackets to attach Yakima RoadShower to AutoHome Columbus roof top tent
